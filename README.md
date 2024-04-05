@@ -3,7 +3,7 @@
 
 - 👨‍💻 Mis principales proyectos están en [https://github.com/rubenledesma10](https://github.com/rubenledesma10)
 
-- 💬 Puedes preguntarme sobre **Java, Spring Boot, Spring Security, Microservicios con Spring Cloud, MySQL**
+- 💬 Puedes preguntarme sobre **Java, Spring Boot, Spring Security, Microservicios con Spring Cloud, MySQL, PHP, Python**
 
 - 📫 Me puedes escribir a **rubenledesma89@gmail.com**
 
