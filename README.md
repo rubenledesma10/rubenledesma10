@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Rubén Ledesma</h1>
 <h3 align="center">Soy Desarrollador Java Backend</h3>
 
-- 👨‍💻 Mis principales proyectos están en [https://github.com/rubenledesma10](https://github.com/rubenledesma10) 
+- 👨‍💻 Mis principales proyectos los puedes encontrar más abajo
 
 - 💻 Todos mis proyectos están en [https://github.com/rubenledesma10?misproyectos](https://github.com/rubenledesma10?tab=repositories&q=&type=&language=&sort=)
 
