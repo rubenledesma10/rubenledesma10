@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Rubén Ledesma</h1>
-<h2 align="center">Soy Desarrollador Java Backend</h2>
+<h2 align="center">Desarrollador Java Backend</h2>
 
 - 👨‍💻 Mis principales proyectos los puedes encontrar más abajo
 
