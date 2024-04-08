@@ -21,8 +21,8 @@
 <h3 align="left">✔ Experiencia:</h3>
 <dl>
   <dd>
-    <p align="left"> ✅ NoCountry: Desarrallador Java Backend | LookingProf (Plataforma para promocionar servicios de Profesionales)
-</p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+     ✅ NoCountry: Desarrallador Java Backend | LookingProf (Plataforma para promocionar servicios de Profesionales)
   </dd>
 </dl>
 
