@@ -5,7 +5,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    ☑ Tecnologías: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> |  MySQL | PHP | Python|  HTML5 | CSS3 | JavaScript | Bootstrap | Docker | Postman | Scrum | Git        
+    ☑ Tecnologías: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> |  MySQL | PHP | Python |  HTML5 | CSS3 | JavaScript | Bootstrap | Docker | Postman | Scrum | Git        
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
