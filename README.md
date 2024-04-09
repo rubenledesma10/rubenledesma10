@@ -6,10 +6,10 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     ☑ Tecnologías:
-      <dt>
+      <dl>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
       🧉 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python       
-      </dt> 
+      </dl> 
       <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🧉 Frontend: HTML5 | CSS3 | JavaScript | Bootstrap |
