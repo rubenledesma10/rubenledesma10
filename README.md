@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Rubén Ledesma</h1>
 <h2 align="center">Desarrollador Java Backend</h2>
 
-<h3 align="left">✔✅ Acerca de Mí:</h3>
+<h3 align="left">✅ Acerca de Mí:</h3>
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -18,7 +18,7 @@
 
 </dl>
 <br>  
-<h3 align="left">✔ Experiencia:</h3>
+<h3 align="left">✅ Experiencia:</h3>
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -26,7 +26,7 @@
   </dd>
 </dl>
 <br>
-<h3 align="left">✔ Proyectos:</h3>
+<h3 align="left">✅ Proyectos:</h3>
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -38,7 +38,7 @@
   </dd>
 </dl>
 <br>
-<h3 align="left">✔ Contacta conmigo:</h3>
+<h3 align="left">✅ Contacta conmigo:</h3>
   <dl>
     <dd>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
