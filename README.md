@@ -5,23 +5,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    ☑ Tecnologías:
-      <dl>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      🧉 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python       
-      </dl> 
-      <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🧉 Frontend: HTML5 | CSS3 | JavaScript | Bootstrap |
-      </dd>
-      <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🧉 Base de Datos: MySQL
-      </dd>
-      <dd>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        🧉 Herramientas: Docker | Postman | Scrum | Git
-      </dd>       
+    ☑ Tecnologías: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python | HTML5 | CSS3 | JavaScript | Bootstrap | MySQL | Docker | Postman | Scrum | Git
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
