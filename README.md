@@ -3,7 +3,7 @@
 
 <h3 align="left">✔ Acerca de Mí:</h3>
 <dl>
-  <dd>
+  <dt>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     ☑ Tecnologías:
       <dd>
@@ -22,7 +22,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
         🧉 Herramientas: Docker | Postman | Scrum | Git
       </dd>       
-  </dd>
+  </dt>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     ✅ Me considero una persona responsable, honesta, organizada, predispuesta a tareas, comprometido con el trabajo, con buena capacidad de comunicación y adaptación
