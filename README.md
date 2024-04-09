@@ -8,19 +8,19 @@
     ☑ Tecnologías:
       <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      🧉Back: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python       
+      🧉 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python       
       </dd> 
       <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        Front: HTML5 | CSS3 | JavaScript | Bootstrap |
+        🧉 Frontend: HTML5 | CSS3 | JavaScript | Bootstrap |
       </dd>
       <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        Base de Datos: MySQL
+        🧉 Base de Datos: MySQL
       </dd>
       <dd>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-        Herramientas: Docker | Postman | Scrum | Git
+        🧉 Herramientas: Docker | Postman | Scrum | Git
       </dd>       
   </dd>
   <dd>
