@@ -5,7 +5,19 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    ☑ Tecnologías: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> |  MySQL | PHP | Python |  HTML5 | CSS3 | JavaScript | Bootstrap | Docker | Postman | Scrum | Git        
+    ☑ Tecnologías:
+      <dd>
+      Back: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python       
+      </dd> 
+      <dd>
+        Front: HTML5 | CSS3 | JavaScript | Bootstrap |
+      </dd>
+      <dd>
+        Base de Datos: MySQL
+      </dd>
+      <dd>
+        Herramientas: Docker | Postman | Scrum | Git
+      </dd>       
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
