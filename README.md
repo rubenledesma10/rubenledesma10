@@ -1,6 +1,27 @@
 <h1 align="center">Hola 👋, me llamo Rubén Ledesma</h1>
 <h2 align="center">Desarrollador Java Backend</h2>
 
+<h3 align="left">✅ Lenguajes y Herramientas:</h3>
+<dl>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  💻 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  💻 Frontend: HTML5 | CSS3 | JavaScript | Bootstrap
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  💻 Base de datos: MySQL
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  💻 Herramientas: Docker | Postman | Git | Scrum
+  </dd>
+</dl>
+<br> 
+
 <h3 align="left">✅ Acerca de Mí:</h3>
 <dl>
   <dd>
@@ -27,7 +48,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     🧉 En lo personal, me siento muy cómodo trabajando en equipo y me adapto fácilmente a distintos entornos. Me gusta superarme constantemente, estar en continua formación y crecer tanto personalmente como profesionalmente.
   </dd>
-
 </dl>
 <br>  
 <h3 align="left">✅ Experiencia:</h3>
