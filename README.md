@@ -5,8 +5,16 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  💻 Tecnologías: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python | HTML5 | CSS3 | JavaScript | Bootstrap | MySQL | Docker | Postman | Scrum | Git
+  💻 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python
   </dd>
+  <dd>
+   💻 Frontend: HTML5 | CSS3 | JavaScript | Bootstrap
+  <dd>
+  <dd>
+   💻 Base de datos: MySQL
+  <dd>
+  <dd>
+   💻 Herramientas: Docker | Postman | Scrum | Git
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     🧉 Me considero una persona responsable, honesta, organizada, predispuesta a tareas, comprometido con el trabajo, con buena capacidad de comunicación y adaptación
