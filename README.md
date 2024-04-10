@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Rubén Ledesma</h1>
 <h2 align="center">Desarrollador Java Backend</h2>
 
-<h3 align="left">✅ Lenguajes y Herramientas:</h3>
+<h3 align="left">👨🏾‍💻 Lenguajes y Herramientas:</h3>
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
