@@ -8,6 +8,18 @@
   💻 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP | Python HTML5 | CSS3 | JavaScript | Bootstrap MySQL Docker | Postman | Scrum | Git
   </dd>
   <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  💻 Frontend: HTML5 | CSS3 | JavaScript | Bootstrap
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  💻 Base de datos: MySQL Docker | Postman | Scrum | Git
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  💻 Herramientas: Docker | Postman | Git | Scrum
+  </dd>
+  <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     🧉 Me considero una persona responsable, honesta, organizada, predispuesta a tareas, comprometido con el trabajo, con buena capacidad de comunicación y adaptación
   </dd>
