@@ -10,7 +10,7 @@
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
    💻 Frontend: HTML5 | CSS3 | JavaScript | Bootstrap
-  </dl>
+  </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
    💻 Base de datos: MySQL
