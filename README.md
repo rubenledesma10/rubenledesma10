@@ -13,7 +13,7 @@
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  💻 Base de datos: MySQL Docker | Postman | Scrum | Git
+  💻 Base de datos: MySQL
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
