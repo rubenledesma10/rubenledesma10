@@ -69,6 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenledesma10&layout=compact&theme=cobalt&hide_border=true" width="36%"/>
    <img src="https://github-readme-stats.vercel.app/api?username=rubenledesma10&show_icons=true&theme=cobalt&hide_border=true" alt="My github stats" width="47%"/> 
 </div>
+[![Dashboard stats of @rubenledesma10](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=99040671&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=99040671)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=99040671" target="_blank" style="display: block" align="center">
   <picture>
