@@ -5,7 +5,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  💻 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | PHP
+  💻 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b>
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
