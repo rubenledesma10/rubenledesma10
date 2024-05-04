@@ -40,6 +40,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
      🧉 NoCountry: Desarrallador Java Backend | LookingProf (Plataforma para promocionar servicios de Profesionales)
   </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+     🧉 NoCountry: Desarrallador Java Backend | Aware Gaming (Casino virtual, destinado a ayudar a personas que enfrentan dificultades con el juego y las apuestas)
+  </dd>
 </dl>
 <br>
 <h3 align="left">✅ Proyectos:</h3>
