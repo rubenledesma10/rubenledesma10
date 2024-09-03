@@ -38,11 +38,15 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-     🧉 NoCountry: Desarrallador Java Backend | LookingProf (Plataforma para promocionar servicios de Profesionales)
+     🧉 Mate SD (Mate Soluciones Digitales): Desarrallador Java Backend | Sistema de gestión (Sistema de gestión para un mini supermercado)
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
      🧉 NoCountry: Desarrallador Java Backend | Aware Gaming (Casino virtual, destinado a ayudar a personas que enfrentan dificultades con el juego y las apuestas)
+  </dd>
+  <dd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+     🧉 NoCountry: Desarrallador Java Backend | LookingProf (Plataforma para promocionar servicios de Profesionales)
   </dd>
 </dl>
 <br>
@@ -62,7 +66,7 @@
   <dl>
     <dd>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-      🧉   <a href="https://linkedin.com/in/rubén-ledesma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén-ledesma" height="30" width="40" /></a>
+      🧉   <a href="https://www.linkedin.com/in/ledesma-ruben/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén-ledesma" height="30" width="40" /></a>
     </dd>
   </dl> 
 <br>
