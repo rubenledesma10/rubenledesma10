@@ -73,8 +73,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenledesma10&theme=onedark" alt="rubenledesma" /></a> 
 </p>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenledesma10&layout=compact&theme=cobalt&hide_border=true" width="36%"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=rubenledesma10&show_icons=true&theme=cobalt&hide_border=true" alt="My github stats" width="47%"/> 
-</div>
+
 
