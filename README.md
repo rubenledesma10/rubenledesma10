@@ -5,7 +5,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  💻 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b>
+  💻 Backend: Java | <b>Spring Boot</b> | <b>Microservicios con Spring Cloud</b> | <b>Spring Security</b> | Python
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -38,7 +38,7 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-     🧉 Mate SD (Mate Soluciones Digitales): Desarrallador Java Backend | Sistema de gestión (Sistema de gestión para un mini supermercado)
+     🧉 Mate SD (Mate Soluciones Digitales): Desarrallador Java Backend 
   </dd>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
