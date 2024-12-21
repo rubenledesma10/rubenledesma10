@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Rubén Ledesma</h1>
-<h2 align="center">Desarrollador Java Backend</h2>
+<h2 align="center">Desarrollador de Software</h2>
 
 <h3 align="left">👨🏾‍💻 Lenguajes y Herramientas:</h3>
 <dl>
@@ -25,6 +25,12 @@
 <h3 align="left">✅ Acerca de Mí:</h3>
 <dl>
   <dd>
+    🧉 Estudiante avanzado de Desarrollo de Software, con experiencia como Desarrollador Java Backend. Deseo seguir desarrollándome en el área de
+desarrollo de software, particularmente como desarrollador backend o desarrollador full stack, donde pueda aplicar mis conocimientos y seguir
+aprendiendo en entornos dinámicos y colaborativos. Enfocado en crecer profesionalmente y aportar valor al equipo con mi compromiso y
+habilidades técnicas.
+  </dd>
+  <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     🧉 Me considero una persona responsable, honesta, organizada, predispuesta a tareas, comprometido con el trabajo, con buena capacidad de comunicación y adaptación
   </dd>
@@ -32,6 +38,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     🧉 En lo personal, me siento muy cómodo trabajando en equipo y me adapto fácilmente a distintos entornos. Me gusta superarme constantemente, estar en continua formación y crecer tanto personalmente como profesionalmente.
   </dd>
+  
 </dl>
 <br>  
 <h3 align="left">✅ Experiencia:</h3>
