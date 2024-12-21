@@ -25,7 +25,8 @@
 <h3 align="left">✅ Acerca de Mí:</h3>
 <dl>
   <dd>
-    🧉 Estudiante avanzado de Desarrollo de Software, con experiencia como Desarrollador Java Backend. Deseo seguir desarrollándome en el área de
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🧉 Estudiante avanzado de Desarrollo de Software, con experiencia como Desarrollador Java Backend. Deseo seguir desarrollándome en el área de
 desarrollo de software, particularmente como desarrollador backend o desarrollador full stack, donde pueda aplicar mis conocimientos y seguir
 aprendiendo en entornos dinámicos y colaborativos. Enfocado en crecer profesionalmente y aportar valor al equipo con mi compromiso y
 habilidades técnicas.
