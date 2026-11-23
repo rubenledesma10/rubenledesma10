@@ -69,4 +69,16 @@
 <dl>
   <dd>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    🧉 <a href="https://www.linkedin.com/in/ledesma-ruben/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén-ledesma" height="30" width="40
+    🧉 <a href="https://www.linkedin.com/in/ledesma-ruben/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubén-ledesma" height="30" width="40" /></a>
+  </dd>
+</dl> 
+<br>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenledesma10&theme=onedark&no-bg=true&margin-w=10&margin-h=10" alt="Trofeos de GitHub de Rubén Ledesma" /></a> 
+</p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenledesma10&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más usados por Rubén Ledesma" />
+</div>
